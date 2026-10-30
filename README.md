@@ -1,32 +1,40 @@
-<h1 align="center">Matheus Ferreira de Souza</h1>
-<p align="center">Engenharia de Software (UCB) · Estagiário de Suporte de Tecnologia no Ministério da Cultura · Brasília, DF</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:465EFF,100:7B61FF&height=170&section=header&text=Matheus%20Ferreira%20de%20Souza&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%C2%B7%20Bras%C3%ADlia%2C%20DF&descAlignY=60&descSize=16" alt="Matheus Ferreira de Souza"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-ferreira-de-souza-303b43264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:matfsouza23@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=465EFF&center=true&vCenter=true&width=600&lines=Estagi%C3%A1rio+de+TI+no+Minist%C3%A9rio+da+Cultura;1%C2%BA+lugar+no+Datathon+Banco+do+Brasil+2026;Java+%C2%B7+C+%C2%B7+Python+%C2%B7+DevOps" alt="Typing SVG"/>
 </p>
 
-## Sobre mim
-Estudo Engenharia de Software na Universidade Católica de Brasília e faço estágio no suporte de tecnologia do Ministério da Cultura. Gosto de transformar regras de negócio em sistemas que dá para explicar e testar. Hoje desenvolvo com apoio de IA (Claude Code), revisando e testando cada parte do que entrego.
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-ferreira-de-souza-303b43264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:matfsouza23@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+</p>
 
-🏆 **1º lugar no Datathon Proteção Inteligente** (Banco do Brasil, BB Seguros e IBMEC, out/2026), com um motor de recomendação explicável de seguro residencial.
+### 👋 Sobre mim
+- 🎓 6º semestre de **Engenharia de Software** na Universidade Católica de Brasília
+- 💼 **Estagiário de TI no Ministério da Cultura**: desenvolvimento, testes de qualidade, documentação técnica e suporte a DevOps e infraestrutura
+- 🏆 **1º lugar no Datathon Proteção Inteligente** (Banco do Brasil, BB Seguros e IBMEC, out/2026)
+- ⚡ Aprendo rápido, me adapto a novas ferramentas e uso IA para acelerar o desenvolvimento
+- 🌎 Português (nativo) · Inglês (fluente) · Espanhol (intermediário)
 
-## Projetos em destaque
-| Projeto | O que é | Stack |
+### 🛠️ Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,spring,mysql,mongodb,docker,git,github,githubactions,linux,react,vscode&perline=7" alt="Tecnologias"/>
+</p>
+
+### 🚀 Projetos em destaque
+| | Projeto | Stack |
 |---|---|---|
-| [Motor de Seguro Residencial](https://github.com/pedroiaan/datathon-protecao-inteligente) | Projeto vencedor do Datathon: elegibilidade, plano, faixas de cobertura e nível de confiança para 138 casos, com regras explicáveis e testes automáticos | Python · pandas · pytest · Expo |
-| [Smart Inventory API](https://github.com/matfsouza/smart-inventory-backend) | API REST de estoque com autenticação JWT e previsão de reposição | Java · Spring Boot · MySQL · Docker |
-| [Agendamento de Consultas](https://github.com/matfsouza/sistema-agendamento-consultas) | Aplicação desktop para clínica médica em arquitetura MVC | Java · Swing · MySQL |
-| [Processos da Justiça Eleitoral do DF](https://github.com/matfsouza/Analise-de-dados-de-processos-da-justica-eleitoral-do-Distrito-Federal) | Leitura, ordenação e consulta de dados em CSV com estruturas de dados feitas do zero | C |
+| 🏆 | [**Motor de Seguro Residencial**](https://github.com/pedroiaan/datathon-protecao-inteligente)<br><sub>Projeto vencedor do Datathon: elegibilidade, plano, faixas de cobertura e confiança para 138 casos, com regras explicáveis e testes automáticos</sub> | Python · pandas · pytest · Expo |
+| 📦 | [**Smart Inventory API**](https://github.com/matfsouza/smart-inventory-backend)<br><sub>API REST de estoque com autenticação JWT e previsão de reposição</sub> | Java · Spring Boot · MySQL · Docker |
+| 🍔 | [**MyFood**](https://github.com/matfsouza/MyFood)<br><sub>Plataforma de pedidos com dados híbridos MySQL + MongoDB</sub> | Java · Spring · MongoDB |
+| 🏥 | [**Agendamento de Consultas**](https://github.com/matfsouza/sistema-agendamento-consultas)<br><sub>Aplicação desktop para clínica médica em arquitetura MVC</sub> | Java · Swing · MySQL |
+| 🛡️ | [**Simulação Equifax 2026**](https://github.com/matfsouza/simulacao-equifax-2026)<br><sub>Arquitetura segura com isolamento, auditoria e detecção de exfiltração</sub> | Java |
+| ⚖️ | [**Processos da Justiça Eleitoral do DF**](https://github.com/matfsouza/Analise-de-dados-de-processos-da-justica-eleitoral-do-Distrito-Federal)<br><sub>Leitura, ordenação e consulta de dados com estruturas feitas do zero</sub> | C |
 
-## Ferramentas
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-333333?style=flat&logo=anthropic&logoColor=white)
+### 📊 Estatísticas
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matfsouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matfsouza&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens"/>
+</p>
 
-Idiomas: Português (nativo) · Inglês (fluente)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:465EFF&height=100&section=footer" alt=""/>
