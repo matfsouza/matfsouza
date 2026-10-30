@@ -1,16 +1,17 @@
-## Hi there, I'm Matheus 👋
+<img align="right" src="umbreon.gif" alt="Umbreon"/>
 
-<img align="right" width="130" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" alt="Umbreon"/>
+## Hi, I'm Matheus
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=F2C94C&vCenter=true&width=430&lines=Software+Engineering+student;Java+%C2%B7+C+%C2%B7+Python;Retro+games+%26+Nintendo+fan" alt="Software Engineering student · Java · C · Python · Retro games & Nintendo fan"/>
+Software Engineering student in Brasília, Brazil. I write mostly Java and C, and I use Python for data work. Away from the keyboard: PS2 classics, Nintendo, and too many hours in Hyrule.
 
-Software Engineering student from Brasília, Brazil. I like understanding how things work under the hood and turning messy rules into simple, testable systems. When I'm not coding, I'm probably replaying a PS2 classic or getting lost in Hyrule.
-
-<img height="40" src="https://skillicons.dev/icons?i=java,c,python,spring,mysql,docker,git,linux" alt="Java, C, Python, Spring, MySQL, Docker, Git, Linux"/>
-
-<br>
-
-<img width="440" src="https://streak-stats.demolab.com?user=matfsouza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-f-souza)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matfsouza23@gmail.com)
