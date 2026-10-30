@@ -1,20 +1,16 @@
-## Olá, eu sou o Matheus 👋
+## Hi there, I'm Matheus 👋
 
-<img align="right" width="230" src="https://64.media.tumblr.com/a3f76b4f3ac0632ee6da4f9b36caa1f4/fd918c7bea7b4c78-15/s540x810/c7dd3941a68f619ba6a4caea363a52464d15358d.gif" alt=""/>
+<img align="right" width="130" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" alt="Umbreon"/>
 
-Estudante de Engenharia de Software em Brasília. Gosto de entender como as coisas funcionam por dentro e de transformar regras confusas em sistemas simples.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=F2C94C&vCenter=true&width=430&lines=Software+Engineering+student;Java+%C2%B7+C+%C2%B7+Python;Retro+games+%26+Nintendo+fan" alt="Software Engineering student · Java · C · Python · Retro games & Nintendo fan"/>
 
-**Back-end**<br>
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-333?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=white)
+Software Engineering student from Brasília, Brazil. I like understanding how things work under the hood and turning messy rules into simple, testable systems. When I'm not coding, I'm probably replaying a PS2 classic or getting lost in Hyrule.
 
-**Outras**<br>
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=white)
+<img height="40" src="https://skillicons.dev/icons?i=java,c,python,spring,mysql,docker,git,linux" alt="Java, C, Python, Spring, MySQL, Docker, Git, Linux"/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-f-souza)
-[![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matfsouza23@gmail.com)
+<br>
+
+<img width="440" src="https://streak-stats.demolab.com?user=matfsouza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-f-souza)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matfsouza23@gmail.com)
