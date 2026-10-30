@@ -1,6 +1,6 @@
 ## hi i'm matheus!!
 
-<img align="right" src="umbreon.gif" alt="Umbreon"/>
+<img align="right" src="umbreon-sprite.gif" alt="Umbreon"/>
 
 software engineering student, i write mostly java and C, and I use python for data work
 
