@@ -1,8 +1,8 @@
 <img align="right" src="umbreon.gif" alt="Umbreon"/>
 
-## Hi, I'm Matheus
+## hi i'm matheus!!
 
-Software Engineering student in Brasília, Brazil. I write mostly Java and C, and I use Python for data work. Away from the keyboard: PS2 classics, Nintendo, and too many hours in Hyrule.
+software engineering student, i write mostly java and C, and I use python for data work
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
